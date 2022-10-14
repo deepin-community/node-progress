@@ -1,0 +1,26 @@
+node-progress (2.0.3-1) unstable; urgency=medium
+
+  * Team upload
+
+  [ Paolo Greppi ]
+  * Update Vcs fields for migration to https://salsa.debian.org/
+
+  [ Xavier Guimard ]
+  * Declare compliance with policy 4.5.0
+  * Bump debhelper compatibility level to 12
+  * Use pkg-js-tools auto install
+  * Add "Rules-Requires-Root: no"
+  * Change section to javascript
+  * Add debian/gbp.conf
+  * Add upstream/metadata
+  * debian/watch: use npm registry since tags are missing
+  * New upstream version 2.0.3
+  * Update copyright
+
+ -- Xavier Guimard <yadd@debian.org>  Sun, 08 Mar 2020 19:11:17 +0100
+
+node-progress (1.1.8-1) unstable; urgency=low
+
+  * Initial release (Closes: #849181)
+
+ -- Paolo Greppi <paolo.greppi@libpf.com>  Fri, 23 Dec 2016 10:17:19 +0000
