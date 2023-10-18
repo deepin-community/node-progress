@@ -1,3 +1,13 @@
+node-progress (2.0.3-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints.
+    + node-progress: Add Multi-Arch: foreign.
+  * Update standards version to 4.6.0, no changes needed.
+  * Apply multi-arch hints. + node-progress: Add :any qualifier for nodejs dependency.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Tue, 29 Nov 2022 21:00:36 +0000
+
 node-progress (2.0.3-1) unstable; urgency=medium
 
   * Team upload
